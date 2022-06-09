@@ -328,7 +328,7 @@
 											"top": 310,
 											"width": 122.87158203125,
 											"height": 13,
-											"text": "do/OpaqueBehavior1",
+											"text": "do/Search",
 											"horizontalAlignment": 0
 										}
 									],
@@ -1875,7 +1875,7 @@
 											"top": 166,
 											"width": 134,
 											"height": 13,
-											"text": "do/OpaqueBehavior1",
+											"text": "do/View or Edit",
 											"horizontalAlignment": 0
 										}
 									],
@@ -3685,7 +3685,7 @@
 									"_parent": {
 										"$ref": "AAAAAAGBSRNvkxw0jAU="
 									},
-									"name": "OpaqueBehavior1"
+									"name": "Search"
 								}
 							]
 						},
@@ -3847,7 +3847,7 @@
 									"_parent": {
 										"$ref": "AAAAAAGBSRZlch2/0Nc="
 									},
-									"name": "OpaqueBehavior1"
+									"name": "View or Edit"
 								}
 							]
 						},
